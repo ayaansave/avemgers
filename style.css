@@ -1,0 +1,46 @@
+.body_background 
+{
+    background-image: url("avenger_bg.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+h2
+{
+	background: rgb(255,3,0);
+background: radial-gradient(circle, rgba(255,3,0,1) 0%, rgba(18,241,28,1) 6%, rgba(222,249,0,1) 14%, rgba(53,22,255,1) 25%, rgba(255,179,0,1) 37%, rgba(247,0,243,1) 50%, rgba(255,4,39,1) 62%, rgba(0,245,11,1) 75%, rgba(245,9,9,1) 87%, rgba(0,5,244,1) 94%, rgba(3,255,74,1) 100%);
+	border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+ }
+h3
+{
+	display: inline-block;
+}
+span
+{
+	color: white;	
+}
+a
+{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#head_info
+{
+	background: rgb(238,238,238);
+	background: radial-gradient(circle, rgba(238,238,238,1) 0%, rgba(234,11,241,1) 12%, rgba(62,242,0,1) 25%, rgba(42,15,255,1) 37%, rgba(0,237,255,1) 50%, rgba(237,255,0,1) 62%, rgba(255,162,0,1) 75%, rgba(255,0,0,1) 87%, rgba(0,0,0,1) 100%);
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+	color: white;
+}
